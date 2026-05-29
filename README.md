@@ -1,7 +1,7 @@
 [![Javadocs](http://javadoc.io/badge/net.jqwik/jqwik-api.svg)](https://jqwik.net/docs/current/javadoc/index.html)
 [![CI Status](https://github.com/jqwik-team/jqwik/workflows/CI/badge.svg?branch=main)](https://github.com/jqwik-team/jqwik/actions)
 
-# jqwik
+# jqwik AI Friendly
 
 An alternative 
 [test engine for the JUnit 5 platform](https://junit.org/junit5/docs/current/user-guide/#launcher-api-engines-custom)
@@ -22,5 +22,5 @@ that focuses on Property-Based Testing.
 > What will happen, though, is a regular update of upstream
 > dependencies - like the JUnit platform - 
 > and fixing crucial bugs. 
-> The triage of bugs into "crucial" and "non-crucial" is
-> fully up to the jqwik team.
+> The it will be updated along with the original codebase
+> however any additional prompt injection will be removed
